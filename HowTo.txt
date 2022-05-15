@@ -1,0 +1,10 @@
+Install PyMuPDF for M1 Mac using instructions here: https://stackoverflow.com/questions/68565341/installing-pymupdf-on-macos-big-sur
+    brew install mupdf swig freetype
+    pip3 install https://github.com/pymupdf/PyMuPDF/archive/master.tar.gz
+
+    FYI:
+    source repo: https://github.com/pymupdf/PyMuPDF
+    PyPi site: https://pypi.org/project/PyMuPDF/#description
+
+Use Documentation:
+    chrome-extension://icnekagcncdgpdnpoecofjinkplbnocm/reader/index.html?id=213
